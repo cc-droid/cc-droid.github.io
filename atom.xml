@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://github.com/cc-droid/cc-droid.github.io/"/>
-  <updated>2021-01-25T17:45:23.163Z</updated>
+  <updated>2021-01-26T07:51:54.344Z</updated>
   <id>https://github.com/cc-droid/cc-droid.github.io/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://github.com/cc-droid/cc-droid.github.io/posts/3eeb.html"/>
-    <id>https://github.com/cc-droid/cc-droid.github.io/posts/3eeb.html</id>
+    <link href="https://github.com/cc-droid/cc-droid.github.io/posts/hello.html"/>
+    <id>https://github.com/cc-droid/cc-droid.github.io/posts/hello.html</id>
     <published>2018-12-07T14:15:57.000Z</published>
-    <updated>2021-01-25T17:45:23.163Z</updated>
+    <updated>2021-01-26T07:51:54.344Z</updated>
     
     <summary type="html">
     
@@ -36,10 +36,6 @@
     </summary>
     
     
-      <category term="hello-world" scheme="https://github.com/cc-droid/cc-droid.github.io/categories/hello-world/"/>
-    
-    
-      <category term="hello-world" scheme="https://github.com/cc-droid/cc-droid.github.io/tags/hello-world/"/>
     
   </entry>
   
